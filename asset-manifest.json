@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://srikar-rama.github.io/csb-3c5uy/static/css/main.8a797fbf.chunk.css",
+    "main.js": "https://srikar-rama.github.io/csb-3c5uy/static/js/main.821f736b.chunk.js",
+    "main.js.map": "https://srikar-rama.github.io/csb-3c5uy/static/js/main.821f736b.chunk.js.map",
+    "runtime-main.js": "https://srikar-rama.github.io/csb-3c5uy/static/js/runtime-main.291ab42a.js",
+    "runtime-main.js.map": "https://srikar-rama.github.io/csb-3c5uy/static/js/runtime-main.291ab42a.js.map",
+    "static/js/2.c572b6cf.chunk.js": "https://srikar-rama.github.io/csb-3c5uy/static/js/2.c572b6cf.chunk.js",
+    "static/js/2.c572b6cf.chunk.js.map": "https://srikar-rama.github.io/csb-3c5uy/static/js/2.c572b6cf.chunk.js.map",
+    "index.html": "https://srikar-rama.github.io/csb-3c5uy/index.html",
+    "static/css/main.8a797fbf.chunk.css.map": "https://srikar-rama.github.io/csb-3c5uy/static/css/main.8a797fbf.chunk.css.map",
+    "static/js/2.c572b6cf.chunk.js.LICENSE.txt": "https://srikar-rama.github.io/csb-3c5uy/static/js/2.c572b6cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.291ab42a.js",
+    "static/js/2.c572b6cf.chunk.js",
+    "static/css/main.8a797fbf.chunk.css",
+    "static/js/main.821f736b.chunk.js"
+  ]
+}
